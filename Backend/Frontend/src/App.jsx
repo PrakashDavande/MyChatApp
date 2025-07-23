@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import Left from "./home/Leftpart/Left";
 import Right from "./home/Rightpart/Right";
